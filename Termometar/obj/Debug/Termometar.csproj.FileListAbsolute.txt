@@ -1,0 +1,7 @@
+F:\Termometar\Termometar\bin\Debug\Termometar.exe.config
+F:\Termometar\Termometar\bin\Debug\Termometar.exe
+F:\Termometar\Termometar\bin\Debug\Termometar.pdb
+F:\Termometar\Termometar\obj\Debug\Termometar.csproj.AssemblyReference.cache
+F:\Termometar\Termometar\obj\Debug\Termometar.csproj.CoreCompileInputs.cache
+F:\Termometar\Termometar\obj\Debug\Termometar.exe
+F:\Termometar\Termometar\obj\Debug\Termometar.pdb
